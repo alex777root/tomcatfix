@@ -1,2 +1,2 @@
 #Exercise 
-Write a on how to install jenkins on a server
+Write a script to install jenkins on an UBUNTU server 20.04
